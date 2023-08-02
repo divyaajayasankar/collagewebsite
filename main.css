@@ -15,7 +15,7 @@
     border: solid 1px rgb(15, 7, 7);
     min-height: 50px;
 }
-.p,text,ol{
+p,text,ol{
     text-align: center;
   color: grey;
 }

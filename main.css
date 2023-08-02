@@ -1,0 +1,43 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+}
+.col-3{
+    width: 25%;
+    border: solid 1px rgb(16, 6, 6);
+    min-height: 50px;
+}
+.col-4{
+    width: 33.33333%;
+    border: solid 1px rgb(15, 7, 7);
+    min-height: 50px;
+}
+p,text,ol{
+    text-align: center;
+  color: grey;
+}
+.justify-center{
+    justify-content: center;
+}
+.wrap-wrap{
+    flex-wrap: wrap;
+}
+.col{
+    border: solid 1px black;
+    min-height: 40px;
+}
+.header-top{
+    background-color: #d581cb;
+    min-height: 80px;
+}
+.queries-section{
+    background-color:#d581cb;
+    min-height: 80px;
+}
+.about{
+    background-color:#d581cb;
+    min-height: 500px;
+}

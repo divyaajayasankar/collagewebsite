@@ -1,5 +1,5 @@
 .container{
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 .row{
@@ -17,7 +17,7 @@
 }
 p,text,ol{
     text-align: center;
-  color: grey;
+  color: rgb(123, 123, 227);
 }
 .justify-center{
     justify-content: center;
@@ -30,14 +30,21 @@ p,text,ol{
     min-height: 40px;
 }
 .header-top{
-    background-color: #d581cb;
+    background-color: #85c6ee;
     min-height: 80px;
 }
 .queries-section{
-    background-color:#d581cb;
+    background-color:#85c6ee;
     min-height: 80px;
 }
 .about{
-    background-color:#d581cb;
+    background-color:#85c6ee;
     min-height: 500px;
 }
+.academicexcellence{
+    background-color:#85c6ee;
+    min-height: 500px;
+}   
+
+
+

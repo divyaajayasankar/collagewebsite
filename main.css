@@ -11,17 +11,17 @@
 }
 .col-4{
     width: 33.33333%;
-    border: solid 1px rgb(243, 237, 237);
+
     min-height: 50px;
 }
 .col-12{
     width: 200%;
-     background-color: rgb(122, 139, 152);
+     background-color: rgb(241, 244, 247);
     min-height: 50px;
 }
 p{
     text-align: center;
-  color: rgb(17, 17, 22);
+  color: rgb(10, 10, 38);
 }
 ul{
     text-align: center;
@@ -49,14 +49,24 @@ ul{
     background-color:#ebedf1;
     min-height: 500px;
 }
-.academicexcellence{
+.academicexcellence,.a{
     background-color:#062b68;
     min-width: 1000px;
+    font-family: bold;
+    font-size: large;
+    color:#ebedf1;
 }   
 .post{
-    background-color:#bcb9cf;
+    background-color:#ededf2;
     min-width: 1000px;
+    min-height: 200%;
 }
+h1{
+ font-weight: bolder;
+ color:#ebedf1;
+
+}
+
 
 
 
